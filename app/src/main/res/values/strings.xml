@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MoneyConverter</string>
+
+    <string name="title_date">Курс ЦБ РФ на \n %1$s</string>
+    <string name="title_ration">%1$s/%2$s = %3$s</string>
+</resources>
